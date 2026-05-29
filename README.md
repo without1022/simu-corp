@@ -82,6 +82,7 @@ simu-corp/
 ├── docs/                     # 设计文档
 │   ├── 多Agent协作系统设计.md   # 18章完整设计 (7649行)
 │   ├── 模拟公司白皮书.md        # 项目白皮书 (设计哲学)
+│   ├── AI-OS-演化白皮书.md       # AI OS 演化白皮书 (应用→操作系统)
 │   ├── agent-template-instance-model.md  # Agent模板与实例模型
 │   ├── agent-marketplace.md   # Agent市场(人才市场)设计
 │   ├── api-mock.md            # 接口Mock数据与联调指南
